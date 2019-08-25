@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,600" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <!--<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon"> -->
+    <title>🍴 🍽️ Recipe Finder 🍽️ 🍴</title> <!-- Title Of Document -->
+</head>
+<body>
+<div class="container">
+    <header class="header"> <!-- Header Containing Search Bar And Button As Well As Likes In Corner -->
+        <form class="search">
+            <input type="text" class="search__field" placeholder="What Recipe Would You Like Today?"> <!-- Search Field -->
+            <button class="btn search__btn"> <!-- Search Button -->
+                <svg class="search__icon">
+                    <use href="img/icons.svg#icon-magnifying-glass"></use>
+                </svg>
+                <span>Search Recipes</span>
+            </button>
+        </form>
+        <div class="likes"> <!-- Likes Sub Menu -->
+            <div class="likes__field">
+                <svg class="likes__icon">
+                    <use href="img/icons.svg#icon-heart"></use> <!-- Heart Icon That Is Shown Or Hidden When Applicable -->
+                </svg>
+            </div>
+            <div class="likes__panel">
+                <ul class="likes__list"> <!-- List Of All Likes -->
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="results"> <!-- Results Left Panel -->
+        <ul class="results__list">
+        </ul>
+        <div class="results__pages">
+        </div>
+    </div>
+    <div class="recipe"> <!-- Recipe Central Panel -->
+    </div>
+    <div class="shopping"> <!-- Shopping List Right Panel -->
+        <h2 class="heading-2">My Shopping List</h2>
+        <ul class="shopping__list">
+        </ul>
+    </div>
+</div>
+</body>
+</html>

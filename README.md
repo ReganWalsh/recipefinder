@@ -1,7 +1,7 @@
 ![forthebadge](https://img.shields.io/badge/made%20with-JavaScript-red.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/made%20with-HTML5-red.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/made%20with-CSS3-red.svg?style=for-the-badge&logo=CSS3&logoColor=white)<br>
-![forthebadge](https://img.shields.io/badge/uses-npm-blue.svg?style=for-the-badge&logo=npm&logoColor=white)
+![forthebadge](https://img.shields.io/badge/uses-npm-blue.svg?style=for-the-badge&logo=NPM&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/uses-babel-blue.svg?style=for-the-badge&logo=Babel&logoColor=white)
 
 # *Recipe Finder*

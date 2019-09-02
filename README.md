@@ -4,7 +4,7 @@
 ![forthebadge](https://img.shields.io/badge/uses-babel-blue.svg?style=for-the-badge&logo=Babel&logoColor=white)
 
 # *Recipe Finder*
-An application where a user is able to search and  API (food2fork) for certain recipes they would like to obtain.Users have the ability  to add certain recipes to their 'liked recipes' for later reference and easy callback. Users also have the ability to create a shopping list based upon ingredients in recipes. The front-end interface was implemented using HTML and CSS with the logic being provided using JavaScript.
+An application where a user is able to search an API (food2fork) through a front-end interface for certain recipes they would like to obtain. Users have the ability to add certain recipes to their 'liked recipes' for later reference and easy callback. Users also have the ability to create a shopping list based upon ingredients in recipes. The front-end interface was implemented using HTML and CSS with the logic being provided using JavaScript.
 
 ## *To Run:*
 Clone or download the repo and move into the project the directory. To install the dependencies for the project run ```npm install``` and to run the application execute ```npm start```, the application runs on ```localhost:8080```.

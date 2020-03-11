@@ -1,7 +1,7 @@
-![forthebadge](https://img.shields.io/badge/made%20with-JavaScript-red.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
-![forthebadge](https://img.shields.io/badge/made%20with-HTML5-red.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![forthebadge](https://img.shields.io/badge/made%20with-CSS3-red.svg?style=for-the-badge&logo=CSS3&logoColor=white)<br>
-![forthebadge](https://img.shields.io/badge/uses-babel-blue.svg?style=for-the-badge&logo=Babel&logoColor=white)
+![forthebadge](https://img.shields.io/badge/made%20with-JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![forthebadge](https://img.shields.io/badge/made%20with-HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![forthebadge](https://img.shields.io/badge/made%20with-CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)<br>
+![forthebadge](https://img.shields.io/badge/uses-babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=white)
 
 # *Recipe Finder*
 An application where a user is able to search an API (food2fork) through a front-end interface for certain recipes they would like to obtain. Users have the ability to add certain recipes to their 'liked recipes' for later reference and easy callback. Users also have the ability to create a shopping list based upon ingredients in recipes. The front-end interface was implemented using HTML and CSS with the logic being provided using JavaScript.
